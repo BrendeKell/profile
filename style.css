@@ -1,0 +1,92 @@
+h1{
+  color: rgb(240 240 240) ;
+  font-size: 40px;
+  font-family: "Domine", serif;
+  text-align: center;
+  font-weight: 900;
+}
+
+h2{
+  color: rgb(177 11 82) ;
+  font-size: 25px ;
+  font-family: "Domine", serif;
+  text-align: center;
+}
+
+h3{color: rgb(167 11 87) ;
+  font-size: 20px ;
+  font-family: "Domine", serif;
+  text-align: center;
+}
+
+h4{color:rgb(92 68 176);
+  font-size: 13px;
+  font-family: "Fira Sans Condensed", sans-serif ;
+  font-style : italic;
+  text-align: justify;
+}
+
+p{color: rgb(50 50 50);
+font-size: 12;
+font-family: "Fira Sans Condensed", sans-serif ;
+text-align: justify;
+}
+ul{color: rgb(50 50 50);
+  font-size: 12;
+  font-family: "Fira Sans Condensed", sans-serif ;
+  text-align: justify;
+}
+
+div{
+  border: 0.5px solid black;
+  border-radius: 7px ;
+  box-shadow: 1px 1px 4px rgb(80 80 80);
+  width: 90%;
+  padding: 30px;
+  margin: 15px auto;
+}
+
+.img_circle{
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+#banner{
+ background-image: url("images/banner_background.jpg");
+ background-size: cover;
+ background-position: center center;
+ background-size: cover;
+ border-color: transparent;
+ border-style: solid;
+}
+
+ul{
+padding: 0px;
+text-align: center;
+}
+
+li{
+  margin: 0 auto;
+  display: inline-block;
+  text-decoration: none;
+  padding: 0px 30px;
+}
+
+i{
+font-size: 150px ;
+color: rgb(84 63 155);
+}
+
+.Logo{
+  border-radius: 25%;
+  box-shadow: 4px 4px 3px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.bouton{
+
+}
